@@ -1,0 +1,19 @@
+#countlabel{
+   display: block;
+   text-align: center;
+   font-size: 8em;
+   
+}
+#actions{
+  text-align: center;
+}
+.button{
+    padding: 1em 1em ;
+    font-size: 1.5em;
+    border-radius: .5em;
+    background-color: aqua;
+    cursor: pointer;
+}
+.button:hover{
+    background-color: rgb(110, 149, 149);
+}
